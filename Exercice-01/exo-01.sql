@@ -1,0 +1,16 @@
+-- exo 01
+--
+-- Créez un profile qui contient :
+-- - prénom
+-- - nom de famille
+-- - abonnement newsletter (booléen)
+
+-- La relation user 0,1 <-> 1,1 profile est de "type 1 to 1"
+--
+-- Créez une table catégorie qui contient : 
+-- - nom
+-- - description
+--
+-- La relation catégorie 0,n <-> 1,1 post est de "type 1 to many"
+--
+-- Vous devez rajouter les contraintes de clé étrangère
